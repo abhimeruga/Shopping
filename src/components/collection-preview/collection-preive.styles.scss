@@ -1,0 +1,19 @@
+
+
+.title {
+    font-size: 28px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+  }
+  .collection-preview {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+
+    .preview {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      width:350px;
+    }
+  }

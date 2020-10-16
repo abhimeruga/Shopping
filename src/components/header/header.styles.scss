@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    padding: 20px 80px;
+    align-items: center;
+    height: 10vh;
+
+    .side-menulist{
+        width: 80%;
+        justify-content: flex-end;
+        text-align: end;
+        display: flex;
+    }
+    .logo-container{
+        width: 20%;
+    }
+    .side-item{
+        padding: 0px 20px;
+        font-size: 16px;
+        width: 10%;
+    }
+}
